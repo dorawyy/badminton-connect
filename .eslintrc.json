@@ -92,7 +92,7 @@
 		"require-yield": "error",
 		"no-mixed-spaces-and-tabs": "error",
 		"no-global-assign": "off",
-		"no-undef": "off",
+		"no-undef": "error",
 		"indent": "off",
 		"no-tabs": "off",
 		"quotes": "off",

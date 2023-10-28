@@ -4,8 +4,7 @@
 		"eslint:recommended",
 		"plugin:security/recommended",
 		"plugin:node/recommended",
-		"plugin:regexp/recommended".
-		
+		"plugin:regexp/recommended"
 	],
 	"env": {
 		"es6": true,

@@ -5,6 +5,7 @@
 		"plugin:security/recommended",
 		"plugin:node/recommended",
 		"plugin:regexp/recommended".
+		
 	],
 	"env": {
 		"es6": true,
@@ -20,7 +21,7 @@
 		"qunit": true,
 		"jest/globals": true
 	},
-	"plugins": ["eslint-plugin-node", "eslint-plugin-regexp", "eslint-plugin-security", "jest"],
+	"plugins": ["eslint-plugin-node", "eslint-plugin-regexp", "eslint-plugin-security", "eslint-plugin-jest"],
 	"parser": "@babel/eslint-parser",
 	"parserOptions": {
 		"requireConfigFile": false

@@ -17,7 +17,8 @@
 		"mocha": true,
 		"amd": true,
 		"worker": true,
-		"qunit": true
+		"qunit": true,
+		"jest/globals": true
 	},
 	"plugins": ["eslint-plugin-node", "eslint-plugin-regexp", "eslint-plugin-security"],
 	"parser": "@babel/eslint-parser",

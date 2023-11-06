@@ -29,6 +29,8 @@ import static java.time.LocalDate.now;
 public class BookingActivity extends Activity {
     final private static String TAG = "Booking Activity";
     private String dummyStr; 
+    private String dummyStr2; 
+    
     private RequestQueue queue;
     private DatePicker datePicker;
     private Map<String, String> bookingDetails;
